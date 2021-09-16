@@ -1,0 +1,25 @@
+{   
+    
+	"editor.minimap.enabled": false,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
+	"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+	},
+    "window.zoomLevel": 1.5,
+   "editor.fontFamily": "Consolas",
+	"editor.fontLigatures": false,
+	"editor.fontSize": 14,
+	"workbench.tree.indent": 10,
+	"workbench.iconTheme": "moxer-icons",
+	"zenMode.centerLayout": false,
+	"zenMode.hideLineNumbers": false,
+	"explorer.compactFolders": false,
+	"workbench.activityBar.visible": true,
+	"GitLive.Issue tracker integration": "Disabled",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+}

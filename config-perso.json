@@ -1,0 +1,43 @@
+{
+	"editor.minimap.enabled": false,
+	"editor.tabSize": 2,
+	"editor.wordWrap": "on",
+	"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+	},
+	"explorer.confirmDelete": false,
+	"extensions.ignoreRecommendations": true,
+	"explorer.confirmDragAndDrop": false,
+	"workbench.sideBar.location": "left",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"[javascript]": {
+			"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"prettier.arrowParens": "avoid",
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"git.enableSmartCommit": true,
+	"git.autofetch": true,
+	"prettier.endOfLine": "auto",
+	"prettier.proseWrap": "never",
+	"[json]": {
+			"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"editor.fontFamily": "Consolas",
+	"editor.fontLigatures": true,
+	"editor.fontSize": 14,
+	"workbench.tree.indent": 10,
+	"workbench.colorTheme": "Monokai",
+	"zenMode.centerLayout": false,
+	"zenMode.hideLineNumbers": false,
+	"explorer.compactFolders": false,
+	"window.zoomLevel": 2,
+	"workbench.activityBar.visible": true,
+	"GitLive.Issue tracker integration": "Disabled",
+	"workbench.iconTheme": "vscode-icons",
+}

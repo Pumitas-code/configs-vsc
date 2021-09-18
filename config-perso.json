@@ -1,5 +1,4 @@
-{   
-    
+{
 	"editor.minimap.enabled": false,
 	"editor.tabSize": 2,
 	"editor.wordWrap": "on",
@@ -9,17 +8,36 @@
 			"**/.settings": true,
 			"**/.factorypath": true
 	},
-    "window.zoomLevel": 1.5,
-   "editor.fontFamily": "Consolas",
-	"editor.fontLigatures": false,
+	"explorer.confirmDelete": false,
+	"extensions.ignoreRecommendations": true,
+	"explorer.confirmDragAndDrop": false,
+	"workbench.sideBar.location": "left",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"[javascript]": {
+			"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"prettier.arrowParens": "avoid",
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"git.enableSmartCommit": true,
+	"git.autofetch": true,
+	"prettier.endOfLine": "auto",
+	"prettier.proseWrap": "never",
+	"[json]": {
+			"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"editor.fontFamily": "Consolas",
+	"editor.fontLigatures": true,
 	"editor.fontSize": 14,
 	"workbench.tree.indent": 10,
-	"workbench.iconTheme": "moxer-icons",
+	"workbench.colorTheme": "gckn",
 	"zenMode.centerLayout": false,
 	"zenMode.hideLineNumbers": false,
 	"explorer.compactFolders": false,
+	"window.zoomLevel": 2,
 	"workbench.activityBar.visible": true,
 	"GitLive.Issue tracker integration": "Disabled",
-	"editor.suggestSelection": "first",
-	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+	"workbench.iconTheme": "vscode-icons",
 }

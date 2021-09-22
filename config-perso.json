@@ -40,4 +40,5 @@
 	"workbench.activityBar.visible": true,
 	"GitLive.Issue tracker integration": "Disabled",
 	"workbench.iconTheme": "vscode-icons",
+	"go.useLanguageServer": true,
 }
